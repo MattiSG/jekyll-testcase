@@ -1,0 +1,15 @@
+---
+layout: default
+title:  "Markdown is suspended"
+date:   2014-06-21 16:09:38
+---
+
+This should be a title
+======================
+
+{% include opening_div.html %}
+
+This should too
+===============
+
+{% include closing_div.html %}
